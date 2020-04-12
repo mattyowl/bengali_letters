@@ -8,3 +8,19 @@ corresponding transliteration into Latin characters.
 Each consecutive correct answer scores one point; an incorrect answer
 resets your score to zero. Go for a high score!
 
+# Installation and running the application
+
+The application should install in the standard way for a Python package, e.g., via `pip`:
+
+```
+pip install bengali_letters
+
+```
+
+Or using the `setup.py` script:
+    
+```
+python setup.py install
+```
+
+Simply run `bengali_letters` to launch the application.

@@ -22,5 +22,5 @@ setup(name='bengali_letters',
       #package_data={'nemo': ['data/*']},
       scripts=['bin/bengali_letters'],
       #ext_modules=[Extension("nemoCython", ["nemo/nemoCython.pyx"], include_dirs=[numpy.get_include()])],
-      #install_requires=["PyQt5"]
+      install_requires=["numpy"]
 )
